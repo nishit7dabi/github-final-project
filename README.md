@@ -9,4 +9,4 @@ Final project for Github course in IBM full stack certificate
  &nbsp;   &nbsp; **r**, annual rate of interest</br>
 
 **Output:** </br>
-&nbsp;   &nbsp; **simple interest** = p*t*r
+&nbsp;   &nbsp; **simple interest** = p\*t\*r
